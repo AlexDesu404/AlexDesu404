@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AlexDesu404
+- 👀 I’m interested in ML and NeuroNets
+- 🌱 I’m currently learning how to improve my ETL abilities
